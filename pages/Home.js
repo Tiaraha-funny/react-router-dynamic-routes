@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Home() {
+function Homes() {
 	return <h1>Home Page</h1>;
 }
 
